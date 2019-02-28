@@ -1,0 +1,44 @@
+{
+    "quoteMain" : "Work is no longer a personal hobby but it is indeed part and parcel of worship, and therefore it should be performed with sincerity, perfection and honour.",
+    "quoteBy" : "His Majesty Sultan Qaboos bin Said addressing the Council of Oman on 25th of September 2001",
+    "shaleemLabel": "Shaleem",
+    "shaleemBio": "Established in 1998, Shaleem Petroleum Company SAOC has developed into a leading Omani owned Local Community Contracting Company with over 15 years’ experience delivering Well Maintenance and Workover Services. Today,Shaleem employs over 280 people and proudly represents the ownership interests of over 400 shareholders who are citizens of the Willayat of Shaleem.",
+    "visionText": "Vision",
+    "visionDescription": "To be the best Well Services and Workover Contractor in Oman and in the Region.   A Local Community Company that wins on merit by delivering world-class, internationally competitive performance",
+    "vision_1": "delighting our customers",
+    "vision_2": "satisfying our shareholders",
+    "vision_3": "the employer of first choice for talented people",
+    "vision_4": "delivering development for our local communities.",
+    "valuesText": "Our core values",
+    "valuesDescription": "We believe in delivering world class Oil & Gas industry standards",
+    "value_1" : {
+        "title": "HSE",
+        "description": "No harm to people, no harm to the environment."
+    },
+    "value_2" : {
+        "title": "People",
+        "description": "Developing, training, employing, rewarding and motivating the best team in the field"
+    },
+    "value_3" : {
+        "title": "Customers",
+        "description": "Exceeding customer expectations safely and efficiently."
+    },
+    "value_4" : {
+        "title": "in-country value",
+        "description": "Maximum efficient use of local employees, goods and services."
+    },
+    "value_5" : {
+        "title": "best practices",
+        "description": "Highest international standards of safe and efficient operations; Good Governance; Transparency; Sound & Secure Financial Health (strong balance sheet); Best Systems & Processes (Operations, HR, Financial and Legal).",
+        "info": "Continuous improvement ethos to develop:"
+    },
+    "value_6" : {
+        "title": "integrity",
+        "description": "Behaving with honesty and integrity; Impeccable business ethics; walking the talk of our values."
+    },
+    "value_7" : {
+        "title": "community",
+        "description": "Investing resources to help create self-reliance and provide support to those in need, with the aim always of making tomorrow better than yesterday."
+    }
+
+}

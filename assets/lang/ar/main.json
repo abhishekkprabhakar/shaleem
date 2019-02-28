@@ -1,0 +1,14 @@
+{
+    "topMenuText" : "القائمه",
+    "navbar": {
+        "homeText" : "المنزل",
+        "aboutUsText" : "من نحن",
+        "locationText" : "موقع",
+        "contactUsText" : "اتصل بنا"
+    },
+    "footer": {
+        "labelSafe": "صندوق الامانات",
+        "labelReliable": "موثوق بها",
+        "labelLocal": "المحليه"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "topMenuText" : "Menu",
+    "navbar": {
+        "homeText" : "Home",
+        "aboutUsText" : "About Us",
+        "locationText" : "Location",
+        "contactUsText" : "Contact Us"
+    },
+    "footer": {
+        "labelSafe": "SAFE",
+        "labelReliable": "RELIABLE",
+        "labelLocal": "LOCAL"
+    }
+}
