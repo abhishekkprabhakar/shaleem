@@ -1,0 +1,36 @@
+{
+    "contactUsLabel" : "CONTACT US",
+    "headOfficce" : "Head Office",
+    "line1": "Al Nadha Tower 2, Second Floor,",
+    "line2" : "Ghala, Sultanate of Oman ",
+    "line3" : "P.O. Box 3858, Ruwi ",
+    "line4" : "Postal Code 112 ",
+    "contactsLabel" : "Contacts",
+    "phoneLabel" : "Phone",
+    "faxLabel" : "Fax",
+    "emailLabel" : "Email",
+    "jobSeekers": {
+        "title" : "For Job seekers",
+        "description" : "To apply for a job, please send you full CV to hr@shaleem.co",
+        "info" : "our CV shall contain the following information",
+        "help1" :"1. A written CV in the English language ",
+        "help2" :"2. Certificates from your school, college or university",
+        "help3" :"3. ROP certificate",
+        "help4" :"4. A copy of your drivers licence (if available)",
+        "help5" :"5. A copy of your ID Card"
+    },
+    "forSuppliers": {
+        "title" : "For suppliers",
+        "description" : "To provide us information about your products please send the following documents to info@shaleem.co",
+        "help1" :"1. Evidence of company registration in the Sultanate of Oman.",
+        "help2" :"2. Brochure of your products.",
+        "help3" :"3. Your contact details."
+    },
+    "form":{
+        "name" : "Your Name (required)",
+        "email" : "Your Email (required)",
+        "subject" : "Subject",
+        "message" : "Your Message",
+        "send" : "Send"
+    }
+}
